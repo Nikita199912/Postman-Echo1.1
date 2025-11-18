@@ -1,1 +1,2 @@
 ### Проект: Postman Echo — проверка POST-запроса
+[![Java CI with Gradle](https://github.com/Nikita199912/Postman-Echo1.1/actions/workflows/gradle.yml/badge.svg)](https://github.com/Nikita199912/Postman-Echo1.1/actions/workflows/gradle.yml)
